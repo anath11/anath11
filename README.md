@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anath11
 - 👀 I’m interested in software development. 
-- 🌱 I’m currently learning React JS and artificial intelligence
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning React JS and artificial intelligence. 
+- 💞️ I’m looking to collaborate on open source projects. 
 - 📫 How to reach me, just mesaage me through github. 
 
 <!---
